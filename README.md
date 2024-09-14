@@ -1,5 +1,5 @@
 # AutoATAC-QC
-<u>**AutoATAC-QC**</u> is a streamlined, one-step pipeline designed to efficiently process multiple datasets in parallel, leveraging the power of the `ATACseqQC` R package.
+**AutoATAC-QC** is a streamlined, one-step pipeline designed to efficiently process multiple datasets in parallel, leveraging the power of the `ATACseqQC` R package.
 
 ## Requirements
 Before running the pipeline, ensure the following R packages are installed:
