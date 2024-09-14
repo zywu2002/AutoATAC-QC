@@ -3,9 +3,9 @@
 
 ## Requirements
 Before running the pipeline, ensure the following R packages are installed:
-* ATACseqQC
-* futile.logger
-* ChIPpeakAnno
+* `ATACseqQC`
+* `futile.logger`
+* `ChIPpeakAnno`
 
 ## Usage
 First, configure the parameters in the `AutoATAC_QC.sh` script:
