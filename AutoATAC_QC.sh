@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# ATACseqQC pipeline requires:
+# AutoATAC-QC pipeline requires:
 # 1. ATACseqQC
 # 2. futile.logger
 # 3. ChIPpeakAnno
